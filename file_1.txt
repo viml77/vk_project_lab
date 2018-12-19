@@ -3,3 +3,6 @@ Insert new line
 This is Git Training
 We're in 8W
 Rock!
+You appear
+to be 
+having way to much fun.
